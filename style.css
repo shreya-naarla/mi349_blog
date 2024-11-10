@@ -42,8 +42,8 @@ header {
 }
 
 .big-ben-img {
-    height: 200px;
     width: 200px;
+    height: auto;
     float: left;
     margin-right: 40px;
     background-image: url("big-ben.jpg");
@@ -52,8 +52,8 @@ header {
 }
 
 .spotify-img {
-    height: 200px;
     width: 200px;
+    height: auto;
     float: left;
     margin-right: 40px;
     background-image: url("spotify.png");
@@ -62,8 +62,8 @@ header {
 }
 
 .shreya-img {
-    height: 200px;
     width: 200px;
+    height: auto;
     float: left;
     margin-right: 40px;
     background-image: url("image-of-shreya.jpeg");
