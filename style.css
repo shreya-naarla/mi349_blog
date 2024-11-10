@@ -41,8 +41,23 @@ header {
     border:  1px dotted #242424;
 }
 
-.image-container {
+.big-ben-img {
     width: 200px;
     float: left;
     margin-right: 40px;
+    background-image: url(big-ben.jpg);
+}
+
+.spotify-img {
+    width: 200px;
+    float: left;
+    margin-right: 40px;
+    background-image: url(spotify.png);
+}
+
+.shreya-img {
+    width: 200px;
+    float: left;
+    margin-right: 40px;
+    background-image: url(image-of-shreya.jpeg);
 }
