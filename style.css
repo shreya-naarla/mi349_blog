@@ -32,3 +32,9 @@ section {
     display: flex;
     flex-direction: column;
 }
+
+header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
