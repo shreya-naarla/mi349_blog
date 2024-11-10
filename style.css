@@ -47,8 +47,6 @@ header {
     float: left;
     margin-right: 40px;
     background-image: url("big-ben.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .spotify-img {
@@ -57,8 +55,6 @@ header {
     float: left;
     margin-right: 40px;
     background-image: url("spotify.png");
-    background-size: cover;
-    background-position: center;
 }
 
 .shreya-img {
@@ -67,6 +63,4 @@ header {
     float: left;
     margin-right: 40px;
     background-image: url("image-of-shreya.jpeg");
-    background-size: cover;
-    background-position: center;
 }
