@@ -45,19 +45,19 @@ header {
     width: 200px;
     float: left;
     margin-right: 40px;
-    background-image: url(big-ben.jpg);
+    background-image: url("big-ben.jpg");
 }
 
 .spotify-img {
     width: 200px;
     float: left;
     margin-right: 40px;
-    background-image: url(spotify.png);
+    background-image: url("spotify.png");
 }
 
 .shreya-img {
     width: 200px;
     float: left;
     margin-right: 40px;
-    background-image: url(image-of-shreya.jpeg);
+    background-image: url("image-of-shreya.jpeg");
 }
