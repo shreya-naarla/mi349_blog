@@ -51,6 +51,6 @@ form article {
     padding-bottom: 10px;
 }
 
-article[button] {
-    background-color:blue;
+address[a] {
+    font-size: 1em;
 }
