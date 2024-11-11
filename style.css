@@ -61,3 +61,8 @@ a[rel="author"] {
     margin-left: 40px;
     font-size: 0.5em;
 }
+
+.float-img {
+    float: right;
+    margin-left: 40px;
+}
