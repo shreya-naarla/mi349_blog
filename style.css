@@ -45,4 +45,8 @@ header {
     width: 200px;
     float: right;
     margin-left: 40px;
-} 
+}
+
+.form-item {
+    padding-bottom: 5px;
+}
