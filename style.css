@@ -43,8 +43,6 @@ header {
 
 .image-200px {
     width: 200px;
-    float: right;
-    margin-left: 40px;
 }
 
 form article {
@@ -57,9 +55,7 @@ a[rel="author"] {
 
 .caption {
     color: #7e7e7e;
-    float: right;
-    margin-left: 40px;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 
 .float-img {
