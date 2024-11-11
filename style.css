@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-family:'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
     padding: 40px;
     color: #242424;
@@ -53,4 +53,8 @@ form article {
 
 a[rel="author"] {
     font-style: normal;
+}
+
+.caption {
+    color: #e3e3e3;
 }
