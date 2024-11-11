@@ -16,6 +16,14 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
 p {
     line-height: 1.4em;
 }
@@ -64,17 +72,22 @@ a[rel="author"] {
 }
 
 th {
-    border: 7px solid #242424;
+    border: 5px solid #242424;
 }
 
 tr {
-    border: 7px solid #242424;
+    border: 5px solid #242424;
 }
 
 td {
-    border: 7px solid #242424
+    border: 5px solid #242424
 }
 
 table {
     border: 3px solid #242424;
 }
+
+.newsletter {
+    padding-top: 3px;
+}
+
