@@ -47,6 +47,10 @@ header {
     margin-left: 40px;
 }
 
-.form-item {
+form article {
     padding-bottom: 10px;
+}
+
+article[class="subscribe-button"] {
+    background-color: #e3e3e3;
 }
